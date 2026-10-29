@@ -1,0 +1,10 @@
+.idea/
+.venv
+.env
+*.mp3
+*.txt
+*.webm
+!requirements.txt
+
+
+#pip freeze > requirement.txt
