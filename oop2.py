@@ -30,3 +30,4 @@ circle3.print_details()
 
 
 #branches --copy-- master main
+#we are going to learn inheritance in python
