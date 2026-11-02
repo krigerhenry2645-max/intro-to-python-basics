@@ -34,7 +34,8 @@ class ContractEmployee(Employee):
         super().show_details()
         print(f"Tenure: {self.tenure} months")
         print("-----------")
-
+def my_function(a,b):
+    return a/b
 
 # Test it
 p1 = PermanentEmployee("Henry", "henry@company.com", 20, "IT", 50000, "Medical", 5000)
@@ -45,3 +46,4 @@ c1.show_details()
 
 #TODO OVERRIDING
 #oop in python
+#modules and packages
